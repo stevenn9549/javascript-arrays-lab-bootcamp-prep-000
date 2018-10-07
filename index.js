@@ -14,4 +14,7 @@ function destructivelyRemoveLastKitten(Garfield){
 function destructivelyRemoveFirstKitten(Milo){
   return kittens.shift(Milo);
 }
-function appendKitten()
+function appendKitten(Broom){
+  
+  return kittens
+}
