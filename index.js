@@ -18,5 +18,5 @@ function appendKitten(Broom){
 return  [...kittens, "Broom"];
 }
 function prependkitten(Arnold){
-  return ["Arnold", ...kittens]
+  return ["Arnold", ...kittens];
 }
